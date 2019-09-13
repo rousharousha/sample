@@ -16,17 +16,17 @@ For each test case, print the minimum time in which all array elements will beco
 greater than or equal to K. Print a new line after each test case.
 
 # constraints:
-1<=T<=5
-1<=N<=10^5
-1<=A[i],K<=10^6
+# 1<=T<=5
+# 1<=N<=10^5
+# 1<=A[i],K<=10^6
 
 # SAMPLE INPUT
-2
-3 4
-1 2 5
-3 2
-2 5 5
+# 2
+# 3 4
+# 1 2 5
+# 3 2
+# 2 5 5
 
 # SAMPLE OUTPUT
-3 
-0
+# 3 
+# 0
