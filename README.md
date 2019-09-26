@@ -20,16 +20,18 @@ constraints:
  1<=N<=10^5
  1<=A[i],K<=10^6
 
-SAMPLE INPUT
+SAMPLE INPUT:
 2
 3 4
 1 2 5
 3 2
 2 5 5
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT:
 3 
 0
+
+
 # 2. Hamiltonian and Lagrangian
 Students have become secret admirers of SEGP. They find the course exciting and the
 professors amusing. After a superb Mid Semester examination, it’s now time for the
@@ -50,11 +52,11 @@ Constraints:
 1 <= n <= 1000000
 0 <= arr[i] <= 10000
 
-SAMPLE INPUT
+SAMPLE INPUT:
 6
 16 17 4 3 5 2
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT:
 17 5 2
 
 # 3. Frustrated coders
@@ -76,11 +78,11 @@ Constraints:
 1<= N <= 1000000
 1<=S[ i ]<=1000
 
-SAMPLE INPUT
+SAMPLE INPUT:
 6
 1 7 2 2 4 4 
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT:
 11
 
 # 5.Hacker and traffic lights
@@ -95,18 +97,23 @@ Once Zolo gets into the system he can select any position i and update all eleme
 between i to min(N, i + K - 1) by increasing their state by 1.This whole process takes
 1 sec and he can repeat this process any no. of times until he gets all lights = G . Find
 the minimum time to do the process as Zolo is getting late for work.
+
 # Input Format:
 The first line contains N K
 The second line describes the current status of each bulb as an array whose each
 element can either be G or Y or R.
+
 # Output Format:
 Print the minimum amount of time required to clear the traffic jam".
+
 Constraints:
-1<=N, K<=100000.
-SAMPLE INPUT
+1<=N, K<=100000
+
+SAMPLE INPUT:
 4 2
 R Y G Y
-SAMPLE OUTPUT
+
+SAMPLE OUTPUT:
 5
 
 
