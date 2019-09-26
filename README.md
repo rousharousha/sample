@@ -15,21 +15,21 @@ A.
 For each test case, print the minimum time in which all array elements will become
 greater than or equal to K. Print a new line after each test case.
 
-# constraints:
-# 1<=T<=5
-# 1<=N<=10^5
-# 1<=A[i],K<=10^6
+constraints:
+ 1<=T<=5
+ 1<=N<=10^5
+ 1<=A[i],K<=10^6
 
-# SAMPLE INPUT
-# 2
-# 3 4
-# 1 2 5
-# 3 2
-# 2 5 5
+SAMPLE INPUT
+2
+3 4
+1 2 5
+3 2
+2 5 5
 
-# SAMPLE OUTPUT
-# 3 
-# 0
+SAMPLE OUTPUT
+3 
+0
 # 2. Hamiltonian and Lagrangian
 Students have become secret admirers of SEGP. They find the course exciting and the
 professors amusing. After a superb Mid Semester examination, it’s now time for the
@@ -46,16 +46,16 @@ The next line will contain n space separated integers representing the marks of 
 Output all the integers separated in the array from left to right that are not smaller than
 those on its right side.
 
-# Constraints:
-# 1 <= n <= 1000000
-# 0 <= arr[i] <= 10000
+Constraints:
+1 <= n <= 1000000
+0 <= arr[i] <= 10000
 
-# SAMPLE INPUT
-# 6
-# 16 17 4 3 5 2
+SAMPLE INPUT
+6
+16 17 4 3 5 2
 
-# SAMPLE OUTPUT
-# 17 5 2
+SAMPLE OUTPUT
+17 5 2
 
 # 3. Frustrated coders
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder
@@ -72,16 +72,16 @@ The next line contains N elements where the ith element is theS[ i ] of ith code
 # Output Format:
 Print a single line containing the minimum sum.
 
-# Constraints:
+Constraints:
 1<= N <= 1000000
 1<=S[ i ]<=1000
 
-# SAMPLE INPUT
-# 6
-# 1 7 2 2 4 4 
+SAMPLE INPUT
+6
+1 7 2 2 4 4 
 
-# SAMPLE OUTPUT
-# 11
+SAMPLE OUTPUT
+11
 
 # 5.Hacker and traffic lights
 Zolo is stuck in a traffic due to dysfunctional traffic light. Zolo is a professional hacker
@@ -101,13 +101,13 @@ The second line describes the current status of each bulb as an array whose each
 element can either be G or Y or R.
 # Output Format:
 Print the minimum amount of time required to clear the traffic jam".
-# Constraints:
+Constraints:
 1<=N, K<=100000.
-# SAMPLE INPUT
-# 4 2
-# R Y G Y
-# SAMPLE OUTPUT
-# 5
+SAMPLE INPUT
+4 2
+R Y G Y
+SAMPLE OUTPUT
+5
 
 
 
