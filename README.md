@@ -21,6 +21,7 @@ constraints:
  1<=A[i],K<=10^6
 
 SAMPLE INPUT:
+
 2
 
 3 4
@@ -32,6 +33,7 @@ SAMPLE INPUT:
 2 5 5
 
 SAMPLE OUTPUT:
+
 3 
 
 0
@@ -58,10 +60,13 @@ Constraints:
 0 <= arr[i] <= 10000
 
 SAMPLE INPUT:
+
 6
+
 16 17 4 3 5 2
 
 SAMPLE OUTPUT:
+
 17 5 2
 
 # 3. Frustrated coders
@@ -84,10 +89,13 @@ Constraints:
 1<=S[ i ]<=1000
 
 SAMPLE INPUT:
+
 6
+
 1 7 2 2 4 4 
 
 SAMPLE OUTPUT:
+
 11
 
 # 5.Hacker and traffic lights
@@ -115,10 +123,13 @@ Constraints:
 1<=N, K<=100000
 
 SAMPLE INPUT:
+
 4 2
+
 R Y G Y
 
 SAMPLE OUTPUT:
+
 5
 
 
