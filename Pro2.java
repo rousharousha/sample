@@ -1,4 +1,3 @@
-package pblm1;
 import java.util.*;
 public class Pro2 {
 
