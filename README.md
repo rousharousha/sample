@@ -47,11 +47,11 @@ represents the marks of the ith student.
 Since you are a curious kid, you want to find all the marks that are not smaller than those
 on its right side in the array.
 
-# Input Format:
+# Input:
 The first line of input will contain a single integer n denoting the number of students.
 The next line will contain n space separated integers representing the marks of students.
 
-# Output Format:
+# Output:
 Output all the integers separated in the array from left to right that are not smaller than
 those on its right side.
 
@@ -77,11 +77,11 @@ any random order. Fortunately, you have the time stone (haaan wo harre wala) and
 you can see all possible outcomes of this scenario. Find the outcome where the total
 sum of the remaining coder's skill is minimum. Print this sum.
 
-# Input Format:
+# Input:
 The first line contains N the no. of coders
 The next line contains N elements where the ith element is theS[ i ] of ith coder.
 
-# Output Format:
+# Output:
 Print a single line containing the minimum sum.
 
 Constraints:
@@ -111,12 +111,12 @@ between i to min(N, i + K - 1) by increasing their state by 1.This whole process
 1 sec and he can repeat this process any no. of times until he gets all lights = G . Find
 the minimum time to do the process as Zolo is getting late for work.
 
-# Input Format:
+# Input:
 The first line contains N K
 The second line describes the current status of each bulb as an array whose each
 element can either be G or Y or R.
 
-# Output Format:
+# Output:
 Print the minimum amount of time required to clear the traffic jam".
 
 Constraints:
