@@ -1,6 +1,5 @@
-package pack;
 import java.util.*;
-public class RemoveFriends {
+public class Pro6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
